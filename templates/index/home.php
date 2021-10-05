@@ -15,3 +15,5 @@ if ( ! nicholas()->templates()->is_valid_template( $template ) ) {
 ?>
 <h1>Test</h1>
 <p>The page you are trying to visit could not be found.</p>
+
+
